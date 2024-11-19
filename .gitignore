@@ -1,0 +1,20 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración local de usuario
+.vscode/
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración de la base de datos
+*.db
+*.mdf
+*.ldf
+
+# Archivos sensibles
+appsettings.json
